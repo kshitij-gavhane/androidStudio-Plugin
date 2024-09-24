@@ -9,6 +9,11 @@ Thank you for your understanding and continued support!
 
 ---
 
+## 🔗 [Use Case of HuTouch AI Plugin](https://plugins.jetbrains.com/plugin/25331-hutouch-ai)
+Learn more about how the HuTouch AI Plugin can assist you by exploring its [use case](#). This guide will provide insights into how the plugin can enhance your Android Studio experience and streamline your development process.
+
+---
+
 **For further inquiries, please contact:**  
 **Kshitij Gavhane**
 
